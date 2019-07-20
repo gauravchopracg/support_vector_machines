@@ -5,7 +5,7 @@ Implementation of algorithm Multiclass Support Vector Machines on CIFAR-10 datas
 Overview
 ============
 
-The SVM classifier consists is implemented in 3 ways:
+The SVM classifier is implemented in 3 ways:
 * Unvectorized Version
 * Half - Vectorized Version
 * Fully Vectorized Version
